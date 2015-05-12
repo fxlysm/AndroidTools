@@ -32,6 +32,14 @@ IPv6: http://ubuntu.buct6.edu.cn/ 端口：80
 
 http://mirrors.neusoft.edu.cn 端口：80
 
+#使用方法：
+
+启动 Android SDK Manager ，打开主界面，依次选择『Tools』、『Options...』，弹出『Android SDK Manager - Settings』窗口；
+
+在『Android SDK Manager - Settings』窗口中，在『HTTP Proxy Server」和「HTTP Proxy Port』输入框内填入上面镜像服务器地址(不包含http://，如下图)和端口，并且选中『Force https://... sources to be fetched using http://...』复选框。设置完成后单击『Close』按钮关闭『Android SDK Manager - Settings』窗口返回到主界面；
+
+依次选择『Packages』、『Reload』。
+
 
 
 
